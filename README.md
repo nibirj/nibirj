@@ -1,9 +1,13 @@
 ### Hello, my name is Nikita Birjukovs 👋
 I am a second-year student of computer science at TalTech.  
+
 I speak Russian, Estonian and English.  
+
 I have some experience in web development (front-end and back-end).  
+
 Also I know: Java, Python, PHP, JavaScript, Node.js, Spring, Angular.  
-During my university studies I have encountred many difficulties which have made me realise that there is no such thing as an unsolvable problem but rather that it is only a matter of time for me to find a solution. 
+
+During my university studies I have encountred many difficulties which have made me realise that there is no such thing as an unsolvable problem but rather that it is only a matter of time for me to find a solution.  💪🏻
 
 <!--
 **nibirj/nibirj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
