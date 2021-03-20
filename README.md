@@ -11,7 +11,7 @@ Also I know: Java 📙, Python 🐍, PHP ➿, JavaScript🟧, Node.js 🎒, Spri
 During my university studies I have encountred many difficulties which have made me realise that there is no such thing as an unsolvable problem but rather that it is only a matter of time for me to find a solution.  💪🏻
 
 Contacs:
-https://www.linkedin.com/in/nikita-birjukovs-61673a152/
+https://www.linkedin.com/in/nikita-birjukovs-61673a152/  
 email: nikita.birjukovs.nb@gmail.com
 
 <!--
