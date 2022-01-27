@@ -4,7 +4,7 @@ I am a third-year student of computer science at TalTech.
 
 I speak Russian, Estonian and English.  
 
-During my university studies I have encountred many difficulties which have made me realise that there is no such thing as an unsolvable problem but rather that it is only a matter of time for me to find a solution. 
+During my university studies I have encountered many difficulties which have made me realize that there is no such thing as an unsolvable problem but rather that it is only a matter of time for me to find a solution.
 
 Contacs:  
 linkedIn: https://www.linkedin.com/in/nikita-birjukovs-61673a152/  
