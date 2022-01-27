@@ -4,10 +4,6 @@ I am a third-year student of computer science at TalTech.
 
 I speak Russian, Estonian and English.  
 
-I have some experience in web development (front-end and back-end).  
-
-I have basic knowledge: Java, Python, PHP, JavaScrip, Node.js, Spring, Angular, Vue.  
-
 During my university studies I have encountred many difficulties which have made me realise that there is no such thing as an unsolvable problem but rather that it is only a matter of time for me to find a solution. 
 
 Contacs:  
